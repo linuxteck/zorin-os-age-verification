@@ -29,7 +29,7 @@ If you're stuck on the age verification screen:
 
 > Typical screen where users get stuck during installation
 
-![Preview](https://raw.githubusercontent.com/linuxteck/zorin-os-fix/main/zorin-preview.png)
+![Preview](https://github.com/linuxteck/zorin-os-age-verification/blob/main/Zorin_OS-Comparision.png)
 
 ---
 
